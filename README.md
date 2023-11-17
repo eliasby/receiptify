@@ -35,7 +35,7 @@ docker compose up -d
 Change directory to the backend source:
 
 ```shell
-cd ./backend
+cd ./api
 ```
 
 Run the Spring Boot application using Gradle:
@@ -47,7 +47,7 @@ Run the Spring Boot application using Gradle:
 Change directory to the frontend source:
 
 ```shell
-cd ./frontend
+cd ./ui
 ```
 
 You can use PNPM, Yarn or NPM. In my case I used PNPM, which can be installed (if not already) by following the guide [here](https://pnpm.io/installation), or the with following command:
@@ -204,7 +204,7 @@ The response will be the JSON representation of the receipt:
 To run the backend tests:
 
 ```shell
-cd ./backend
+cd ./api
 ```
 
 ```shell
@@ -214,7 +214,7 @@ cd ./backend
 To run the frontend tests:
 
 ```shell
-cd ./frontend
+cd ./ui
 ```
 
 ```shell
