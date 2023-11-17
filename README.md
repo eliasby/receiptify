@@ -220,3 +220,9 @@ cd ./frontend
 ```shell
 pnpm run test
 ```
+
+## Licensing
+
+Receiptify is released under the [MIT](LICENSE) license.
+
+When contributing to Math Stylus, you can find the relevant license in the comments at the top of each file.
