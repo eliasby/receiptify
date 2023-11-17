@@ -225,4 +225,4 @@ pnpm run test
 
 Receiptify is released under the [MIT](LICENSE) license.
 
-When contributing to Math Stylus, you can find the relevant license in the comments at the top of each file.
+When contributing to Receiptify, you can find the relevant license in the comments at the top of each file.
