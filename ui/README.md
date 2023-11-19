@@ -1,4 +1,4 @@
-# Receiptify Frontend
+# Receiptify UI
 
 You can use PNPM, Yarn or NPM. In my case I used PNPM, which can be installed (if not already) by following the guide [here](https://pnpm.io/installation), or the with following command:
 
