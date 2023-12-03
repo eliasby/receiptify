@@ -4,8 +4,6 @@ Receipt UI and API.
 
 ## Getting Started
 
-Install [Docker](https://docs.docker.com/get-docker) and [Docker Compose](https://docs.docker.com/compose/install).
-
 Start MongoDB using Docker Compose:
 
 ```shell
@@ -28,12 +26,6 @@ Change directory to the frontend source:
 
 ```shell
 cd ./ui
-```
-
-You can use PNPM, Yarn or NPM. In my case I used PNPM, which can be installed (if not already) by following the guide [here](https://pnpm.io/installation), or the with following command:
-
-```shell
-corepack enable
 ```
 
 Install dependencies:
