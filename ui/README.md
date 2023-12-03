@@ -6,7 +6,7 @@ Install dependencies:
 pnpm install
 ```
 
-Make sure the API is running as mentioned on the `README.md` found in the root of this repository.
+Make sure the API is running as specified on the `README.md` of the root directory.
 
 Run in development mode:
 
