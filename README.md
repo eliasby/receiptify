@@ -37,7 +37,7 @@ pnpm install
 Run UI in development mode:
 
 ```shell
-pnpm run dev
+pnpm dev
 ```
 
 Finally, open <http://localhost:5173> in the browser.
@@ -187,7 +187,7 @@ cd ./ui
 ```
 
 ```shell
-pnpm run test
+pnpm test
 ```
 
 ## Licensing
