@@ -170,7 +170,7 @@ The response will be the JSON representation of the receipt:
 
 ## Run Tests
 
-To run API tests:
+Run API tests:
 
 ```shell
 cd ./api
@@ -180,7 +180,7 @@ cd ./api
 ./gradlew test
 ```
 
-To run UI tests:
+Run UI tests:
 
 ```shell
 cd ./ui
