@@ -1,9 +1,5 @@
 # Receiptify UI
 
-```shell
-corepack enable
-```
-
 Install dependencies:
 
 ```shell
