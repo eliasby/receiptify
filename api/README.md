@@ -1,6 +1,6 @@
 # Receiptify API
 
-Make sure MongoDB is running as specified on the `README.md` of the root directory.
+_Make sure MongoDB is running as specified on the `README.md` of the root directory._
 
 Run in development mode:
 

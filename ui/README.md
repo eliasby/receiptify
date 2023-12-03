@@ -1,12 +1,12 @@
 # Receiptify UI
 
+_Make sure the API is running as specified on the `README.md` of the root directory._
+
 Install dependencies:
 
 ```shell
 pnpm install
 ```
-
-Make sure the API is running as specified on the `README.md` of the root directory.
 
 Run in development mode:
 
