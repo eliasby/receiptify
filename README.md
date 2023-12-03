@@ -10,7 +10,7 @@ Start MongoDB using Docker Compose:
 docker compose up -d
 ```
 
-Change directory to the backend source:
+Change directory to the API source:
 
 ```shell
 cd ./api
@@ -22,7 +22,7 @@ Run the Spring Boot application using Gradle:
 ./gradlew bootRun
 ```
 
-Change directory to the frontend source:
+Change directory to the UI source:
 
 ```shell
 cd ./ui
@@ -34,7 +34,7 @@ Install dependencies:
 pnpm install
 ```
 
-Run the frontend project in development mode:
+Run the UI in development mode:
 
 ```shell
 pnpm run dev
@@ -170,7 +170,7 @@ The response will be the JSON representation of the receipt:
 
 ## Run Tests
 
-To run the backend tests:
+To run API tests:
 
 ```shell
 cd ./api
@@ -180,7 +180,7 @@ cd ./api
 ./gradlew test
 ```
 
-To run the frontend tests:
+To run UI tests:
 
 ```shell
 cd ./ui
