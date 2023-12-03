@@ -2,7 +2,7 @@
 
 Before running this application, make sure MongoDB is running as mentioned on the `README.md` on the root of this repository.
 
-Run application:
+Run in development mode:
 
 ```shell
 ./gradlew bootRun
