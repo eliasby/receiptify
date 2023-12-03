@@ -10,19 +10,19 @@ Start MongoDB using Docker Compose:
 docker compose up -d
 ```
 
-Change directory to the API source:
+Change directory to API source:
 
 ```shell
 cd ./api
 ```
 
-Run the Spring Boot application using Gradle:
+Run API in development mode:
 
 ```shell
 ./gradlew bootRun
 ```
 
-Change directory to the UI source:
+Change directory to UI source:
 
 ```shell
 cd ./ui
@@ -34,7 +34,7 @@ Install dependencies:
 pnpm install
 ```
 
-Run the UI in development mode:
+Run UI in development mode:
 
 ```shell
 pnpm run dev
