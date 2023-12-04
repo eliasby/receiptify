@@ -1,6 +1,6 @@
 # Receiptify
 
-Receipt UI and API.
+Receipt builder.
 
 ## Getting Started
 
