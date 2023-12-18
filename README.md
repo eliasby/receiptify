@@ -192,6 +192,6 @@ pnpm test
 
 ## Licensing
 
-Receiptify is released under the [MIT](LICENSE) license.
+Receiptify is released under [The MIT License](./LICENSE.md).
 
 When contributing to Receiptify, you can find the relevant license in the comments at the top of each file.
