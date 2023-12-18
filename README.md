@@ -1,6 +1,6 @@
 # Receiptify
 
-Receipt builder.
+Receipt Builder.
 
 ## Getting Started
 
