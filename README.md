@@ -1,7 +1,5 @@
 # Receiptify
 
-Receipt Builder.
-
 ## Getting Started
 
 Start MongoDB using Docker Compose:
